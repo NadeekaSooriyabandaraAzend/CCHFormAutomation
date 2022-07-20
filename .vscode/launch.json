@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://cchapp-gjcwc9f8htazbfcd.z01.azurefd.net/cch/student-personal-info",
+            "request": "launch",
+            "url": "https://cchapp-gjcwc9f8htazbfcd.z01.azurefd.net/cch/student-personal-info"
+        }
+    ]
+}

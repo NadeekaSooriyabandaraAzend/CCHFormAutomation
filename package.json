@@ -1,0 +1,25 @@
+{
+  "name": "cchform",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.2.0",
+    "cypress-sql-server": "^1.0.0",
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.2"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Azend",
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mssql": "^8.1.2"
+  }
+}

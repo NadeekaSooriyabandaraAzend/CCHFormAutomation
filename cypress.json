@@ -1,0 +1,5 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://cchapp-gjcwc9f8htazbfcd.z01.azurefd.net/cch/student-personal-info",
+  "projectId": "tta1jx"
+}

@@ -1,0 +1,250 @@
+[33mcommit a71e6b4d92aeff8733cab865d9143bea4a930ff0[m[33m ([m[1;36mHEAD -> [m[1;32mtestCase_13854[m[33m, [m[1;31morigin/testCase_13854[m[33m)[m
+Merge: 8e681025 06bb79ea
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Fri Oct 22 14:19:14 2021 +0530
+
+    Merge branch 'development' of https://github.com/DileepaH/eCentre into testCase_13854
+
+[33mcommit 8e68102511e15c678c8ea8f92babf20d530391a9[m
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Fri Oct 22 14:18:55 2021 +0530
+
+    A1 ENR students action drop downs
+
+[33mcommit 06bb79eadef30d013afdfe01f97352e81aae5315[m[33m ([m[1;31morigin/development[m[33m)[m
+Merge: 8adb5850 78bdec40
+Author: DileepaH <dharith421@gmail.com>
+Date:   Fri Oct 22 14:16:38 2021 +0530
+
+    Merge pull request #6 from DileepaH/TC_ST_Curricula
+    
+    Tc st curricula
+
+[33mcommit 78bdec405458e037d4ed836e26be2a964a309891[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 22 14:00:26 2021 +0530
+
+    With ST, LC, EP Curricula
+
+[33mcommit 0211cc8979e48e6a0dc3bcb3ab4150a3ff34ac3b[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 22 13:24:05 2021 +0530
+
+    With ST, LC, EP Curricula
+
+[33mcommit 2286d84ba156a9e5d1743a58c7f1d80a89847bcc[m
+Merge: 9937abe4 8adb5850
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Mon Oct 18 16:49:45 2021 +0530
+
+    Merge branch 'development' of https://github.com/DileepaH/eCentre into testCase_13854
+
+[33mcommit 8adb5850063d1079adb306a1a4abd52c1aaaf025[m
+Merge: e57938b7 dfd8240b
+Author: DileepaH <dharith421@gmail.com>
+Date:   Mon Oct 18 12:10:28 2021 +0530
+
+    Merge pull request #5 from DileepaH/TestCase_LC_Curricula
+    
+    Test case lc curricula
+
+[33mcommit dfd8240be53f6bf422beb24c695129753ab1c7ce[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Mon Oct 18 11:59:26 2021 +0530
+
+    Adding the project ID
+
+[33mcommit 9937abe4c7b58148f32703dbce7f7c4caff62940[m
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Mon Oct 18 11:11:29 2021 +0530
+
+    filter records
+
+[33mcommit 71168404eee7e8bb5dc8d960cf9e7263fa769603[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 15 22:21:46 2021 +0530
+
+    Test cases for LC curricula and EP curricula with changed waiting times
+
+[33mcommit 52bfb9efd03ebacb9fafa6d3ffd15c19a719e147[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 15 16:29:40 2021 +0530
+
+    LC curricula and EP curricula
+
+[33mcommit 20adfbe154832b1f292b3ed38397ebab7a0bc145[m
+Merge: 8a7b625c fc00f250
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 15 12:33:56 2021 +0530
+
+    merging EP curricula
+
+[33mcommit fc00f25087be368c997c8ac4ae4d0841261539a2[m
+Author: unknown <you@i-threesixty.com>
+Date:   Fri Oct 15 11:55:21 2021 +0530
+
+    teacher view-all student list
+
+[33mcommit 8a7b625c5f207d8ec2f6e57062098a00e809458f[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Fri Oct 15 11:39:36 2021 +0530
+
+    TestCase for LC curricula
+
+[33mcommit b8459e0d928c9649aa510304f231e6580b1db6b1[m
+Merge: 0a5b984b e57938b7
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Fri Oct 15 09:14:09 2021 +0530
+
+    Merge branch 'development' of https://github.com/DileepaH/eCentre into testCase_13854
+
+[33mcommit e57938b75d4351b2585bfd69df7075c1f7d0e20a[m
+Merge: 99c45ce4 ab843cc8
+Author: DileepaH <dharith421@gmail.com>
+Date:   Thu Oct 14 18:43:17 2021 +0530
+
+    Merge pull request #4 from DileepaH/test_case_13853_1
+    
+    TestCase 13853
+
+[33mcommit ab843cc81d641785daf944719b786b8dac697758[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Thu Oct 14 18:30:26 2021 +0530
+
+    TestCase 13853
+
+[33mcommit 0a5b984bfe8b1f58a7c7dcebf1a6af71bdfb7924[m
+Merge: 2f018633 99c45ce4
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Thu Oct 14 17:38:31 2021 +0530
+
+    Merge branch 'development' of https://github.com/DileepaH/eCentre into testCase_13854
+
+[33mcommit 2f018633703e92944926c0fa6e21eabf440d07c0[m
+Author: Stefan Pereira <stefan@i-threesixty.com>
+Date:   Thu Oct 14 17:35:45 2021 +0530
+
+    filtering students and veryfing student records
+
+[33mcommit aa889b764f6cd858f4d0ba38cb8b9dc47744a488[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Thu Oct 14 17:19:35 2021 +0530
+
+    TestCase 13853
+
+[33mcommit f79d3d5b5e1ff50b342757c79c7dd68f917decac[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Thu Oct 14 11:38:31 2021 +0530
+
+    Testcase_18853_1
+
+[33mcommit 756e170bd25d39fcd0b87dad16114aba963b7ca1[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 13 21:18:22 2021 +0530
+
+    TestCase 13853
+
+[33mcommit 2a88aacb184fa591496a6f9c727ea7a1748da23b[m
+Merge: bf5e8537 3e51699b
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 13 20:30:29 2021 +0530
+
+    Merge branch 'test_case_13853_1' of https://github.com/DileepaH/eCentre into test_case_13853_1
+
+[33mcommit bf5e853749801157ab106264ce641ca9f9a10d85[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 13 20:27:21 2021 +0530
+
+    testcase_18853
+
+[33mcommit ddef0d34f688bc5464c085652e90eba56cbf5217[m
+Merge: 94510f03 99c45ce4
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 13 16:46:16 2021 +0530
+
+    Merge branch 'development' of https://github.com/DileepaH/eCentre into test_case_13853_1
+
+[33mcommit 3e51699bc1be31ea92ec71d64c54b7a9352dad56[m
+Merge: 94510f03 99c45ce4
+Author: Dileepa <dharith421@gmail.com>
+Date:   Wed Oct 13 16:45:32 2021 +0530
+
+    Updated with 13852
+
+[33mcommit 94510f039f13094d4afd92b74f3f9750d325faab[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 13 16:20:57 2021 +0530
+
+    TestCase 13853
+
+[33mcommit 99c45ce402d0ac7a0d8568136c8b464c1706b0ee[m
+Merge: 72f9ddc8 48db9255
+Author: DileepaH <dharith421@gmail.com>
+Date:   Wed Oct 13 16:14:49 2021 +0530
+
+    Merge pull request #3 from DileepaH/Testcase_13852
+    
+    TC 13852
+
+[33mcommit 48db925598f8335b37a4e42f5d097a074833d7c5[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Wed Oct 13 16:13:11 2021 +0530
+
+    Updated the TC numbers in NavigatorLogin feature file
+
+[33mcommit a44d996230c9486b0fb82ea61583e01789de866d[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Wed Oct 13 16:07:55 2021 +0530
+
+    Updated NavigatorLogin.js by removing undefine variable which are not used
+
+[33mcommit 64cf3fcf8ace62f632f1a93ec470dd31dc72fcbb[m
+Author: unknown <you@i-threesixty.com>
+Date:   Wed Oct 13 15:10:05 2021 +0530
+
+    TC 13852
+
+[33mcommit 72f9ddc8bcdf175cefd5f05568eb7528c3fcdce2[m[33m ([m[1;31morigin/test_case_13853_1[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 58def282 94ddf68e
+Author: DileepaH <dharith421@gmail.com>
+Date:   Mon Oct 11 12:31:30 2021 +0530
+
+    Merge pull request #1 from DileepaH/smokeStaffView
+    
+    Smoke staff view
+
+[33mcommit 94ddf68e6dae6ffa0894baa26d59bfcdec50337b[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Mon Oct 11 12:24:55 2021 +0530
+
+    Updated the cypress version in packages
+
+[33mcommit c5c1cc7e14c2e33c3bafbd35de57af405931987b[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 6 19:52:13 2021 +0530
+
+    studentFilters
+
+[33mcommit 4384595b46045d9eef281c5203b375897c686148[m
+Author: Rashiprabha <rashipraba@i-threesixty.com>
+Date:   Wed Oct 6 17:35:06 2021 +0530
+
+    studentFilters
+
+[33mcommit 58def282047a5a30351b4ef8a4a621fa40e73491[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Mon Sep 6 14:13:36 2021 +0530
+
+    dev updated
+
+[33mcommit 5aa8ff7b064e5d023771dbcaa83546ecc2a2766b[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Tue Aug 31 16:00:20 2021 +0530
+
+    Added test to check the student record pg
+
+[33mcommit 340c3d2b74492637d6154c856a36be11c69f647f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Dileepa <dharith421@gmail.com>
+Date:   Fri Aug 27 15:02:30 2021 +0530
+
+    Initial repo
